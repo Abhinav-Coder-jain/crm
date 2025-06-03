@@ -42,6 +42,12 @@
 			<scope>test</scope>
 		</dependency>
 
+
+
+		<dependency>
+			<groupId>com.zaxxer</groupId>
+			<artifactId>HikariCP</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
